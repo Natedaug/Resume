@@ -1,0 +1,66 @@
+Nathan Kroenung
+
+(314) 312-1168
+NathanAKroenung@gmail.com
+https://github.com/Natedaug
+
+Executive Summary
+
+A highly motivated and creative Web Developer who enjoys solving business needs via technology solutions. Well versed in programming with numerous languages and committed to keeping up with the latest web trends, including HTML, CSS, vanilla Javascript and frontend frameworks.
+
+Technical Summary
+
+HTML, CSS,  JavaScript,  jQuery, Angular, React, Svelte, MySQL, FireBase, MongoDB, Git, Gulp, Webpack, npm, Bootstrap, Foundation, Sass		 
+
+Professional Summary
+
+Work Life Limbo, llc – St. Louis, MO				4/2021 — Present
+Software Developer
+
+Highlights
+Consulting clients and helping them figure out the requirements of their needs in web development and help them get up and running.
+Making websites responsive and mobile friendly using custom CSS3, media queries and/or Bootstrap.
+Building websites with HTML, CSS3, JavaScript and/or using CMS of Wordpress or Jekyll
+Working on Java/Spring applications
+
+
+New Balance – St. Louis, MO					10/2017 — 9/2018
+Web UI Developer
+
+Highlights
+Developed dozens of A/B tests with Javascript and CSS, that offered different UI experiences to users and used Adobe Analytics to track effectiveness in funneling users through the shopping and checking out process.
+Created pixel perfect responsive web pages, banners and components across the New Balance E-commerce website.
+Developed and scheduled HTML, CSS, Javascript content using the Salesforce CMS 
+Worked closely with Design, Site Management and Marketing teams, putting out new web content for campaigns for various New Balance products.
+Developed HTML E-mails to help promote campaigns/products.
+Investigated and fixed bugs across the site.
+
+Paradowski Creative – St. Louis, MO				7/2016 — 12/2016
+Web Developer 
+
+Paradowski Creative is an advertising, digital and promotions agency located in St. Louis, MO. In the past 43 years they have blossomed from a one-man design firm into one of the region’s largest marketing service firms.
+
+Highlights
+Worked closely with a design team making carefully crafted photoshop PSD’s and created pixel perfect responsive websites using JavaScript, HTML and CSS3
+Planned projects, assessed time and resource needs
+Started and developed custom website projects using WordPress with custom PHP, JavaScript and Sass
+
+crescendo, llc – St. Louis, MO					10/2015 — 6/2016
+getMADS Software Developer 
+
+getMADS (getMaximizedAppDevSoloutions) is a flexible, affordable software development outsourcing service, which offers its customers software development and software testing solutions via local staff.  As a member of the team, my position included interfacing with team members and product owners to build clean, functional web and software products.
+
+Highlights
+Built a full stack web application using GIT, Maven/Gradle, MySQL, Java 8, Spring 4, Hibernate and AngularJS
+Backend framework utilizing Java, Spring and Hibernate/JPA to create a RESTful Service that calls JSON to the front-end
+Backend data mapping/relationships using JPA and Hibernate annotations.
+Creating UI design using AngularJS, HTML, custom CSS3 and Bootstrap CSS framework
+Provide applications support, maintenance, debugging and custom coding
+Performed data loads/feeds, data mapping and entity creation
+Interfaced with Product Owner to elicit requirements and turn them into development specs
+Designed and developed custom websites using WordPress, Jekyll and AngularJS
+
+
+Education
+	UMSL
+BA Information Technology 
